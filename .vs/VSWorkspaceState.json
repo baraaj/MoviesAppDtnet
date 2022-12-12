@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\MovisesApp",
+    "\\MovisesApp\\Controllers",
+    "\\MovisesApp\\Models",
+    "\\MovisesApp\\Repositories",
+    "\\MovisesApp\\Repositories\\Implementation",
+    "\\MovisesApp\\Views",
+    "\\MovisesApp\\wwwroot",
+    "\\MovisesApp\\wwwroot\\css",
+    "\\MovisesApp\\wwwroot\\js"
+  ],
+  "SelectedNode": "\\MovisesApp.sln",
+  "PreviewInSolutionExplorer": false
+}
